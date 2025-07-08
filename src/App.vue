@@ -3,7 +3,7 @@
     <input
       v-model="keyword"
       type="text"
-      placeholder="搜索子页面…"
+      placeholder="Search app…"
       class="search-input"
       autofocus
     />
