@@ -6,6 +6,6 @@ const pages = [
     { title: 'Shell瑞士军刀', description: 'Make Shell Great Again', url: 'https://shell.328064.xyz/' , iconUir: '/app-icons/one-line-code-icon.png'},
     { title: 'Python瑞士军刀', description: 'Make Python Great Again', url: 'https://python.328064.xyz/' , iconUir: '/app-icons/one-line-code2-icon.png'},
     { title: '多语言翻译', description: 'Make Translate Great Again', url: 'https://alchem-x.github.io/tttt/' , iconUir: '/app-icons/translate-icon.png'},
-    { title: '分享粘贴板', description: 'Make Clipboard Great Again', url: 'https://clipboard.328064.xyz/' , iconUir: '/app-icons/clipboard-icon.png'},
+    { title: '分享粘贴板', description: 'Make Clipboard Great Again', url: 'https://clipboard.328064.xyz/create' , iconUir: '/app-icons/clipboard-icon.png'},
 ];
 export default pages;
